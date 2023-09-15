@@ -1,7 +1,5 @@
 # Hi there, I'm Murat 👋 
 
-
-
 ## I'm a Developer
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!

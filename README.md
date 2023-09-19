@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[[linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)
-
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)](https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)
 
 ### Languages and Tools:
 

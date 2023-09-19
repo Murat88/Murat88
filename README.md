@@ -10,11 +10,8 @@
 
 ### Connect with me:
 
-[![website](linkedin-light.svg)](https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://linkedin.com/in/murat-ürkmez-8461a845#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/muraturkmezzz#gh-light-mode-only)
-[![website](instagram-dark.svg)](https://instagram.com/muraturkmezzz#gh-dark-mode-only)
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)
 
 ### Languages and Tools:
 

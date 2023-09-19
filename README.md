@@ -10,15 +10,20 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)](https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)
+<a href="[https://www.linkedin.com/in/abhishek-maira/](https://linkedin.com/in/murat-ürkmez-8461a845#gh-light-mode-only)" target="_blank"><img height="30" src="https://github.com/Murat88/Murat88/blob/main/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/muraturkmezzz/" target="_blank"><img height="30" src="https://github.com/Murat88/Murat88/blob/main/img/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Languages and Tools:
 
+<img align="left" alt="C#" width="26px" src="https://github.com/Murat88/Murat88/blob/main/img/c-sharp3.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://github.com/Murat88/Murat88/blob/main/img/java.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+
 
 <br />
 <br />
